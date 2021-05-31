@@ -20,17 +20,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       alt="linux"
-      width="24"
-      height="24"
-    />
-  </a>
-
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-      alt="bash"
-      width="24"
-      height="24"
+      width="32"
+      height="32"
     />
   </a>
 
@@ -38,8 +29,17 @@
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      width="24"
-      height="24"
+      width="32"
+      height="32"
+    />
+  </a>
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+      alt="bash"
+      width="32"
+      height="32"
     />
   </a>
 
@@ -47,8 +47,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
       alt="aws"
-      width="24"
-      height="24"
+      width="32"
+      height="32"
     />
   </a>
 
@@ -56,8 +56,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker"
-      width="24"
-      height="24"
+      width="32"
+      height="32"
     />
   </a>
 
@@ -65,8 +65,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
-      width="24"
-      height="24"
+      width="32"
+      height="32"
     />
   </a>
 
@@ -74,8 +74,8 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg"
       alt="haskell"
-      width="24"
-      height="24"
+      width="32"
+      height="32"
     />
   </a>
 
@@ -83,8 +83,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
-      width="24"
-      height="24"
+      width="32"
+      height="32"
     />
   </a>
 
@@ -92,8 +92,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
       alt="redis"
-      width="24"
-      height="24"
+      width="32"
+      height="32"
     />
   </a>
 
@@ -101,8 +101,8 @@
     <img
       src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
       alt="tensorflow"
-      width="24"
-      height="24"
+      width="32"
+      height="32"
     />
   </a>
 </p>
