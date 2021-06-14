@@ -91,6 +91,8 @@
 
 ### My Stats
 
-[![Searge`s github stats](https://github-readme-stats.vercel.app/api?username=searge&show_icons=true&)](https://github.com/searge/github-readme-stats)
+[![Searge`s github stats](https://github-readme-stats.vercel.app/api?username=searge&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=searge&layout=compact)](https://github.com/searge/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=searge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Searge's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=searge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
