@@ -89,7 +89,7 @@
   />
 </a>
 
----
+### My Stats
 
 [![Searge`s github stats](https://github-readme-stats.vercel.app/api?username=searge&show_icons=true&)](https://github.com/searge/github-readme-stats)
 
