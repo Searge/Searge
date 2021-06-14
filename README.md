@@ -5,15 +5,6 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-<h3 align="left">Connect with me:</h3>
-
-+ <a href="https://twitter.com/searge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="searge" height="30" width="40" /></a>
-+ <a href="https://stackoverflow.com/users/searge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="searge" height="30" width="40" /></a>
-+ <a href="https://kaggle.com/thesearge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="thesearge" height="30" width="40" /></a>
-+ <a href="https://instagram.com/searge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="searge" height="30" width="40" /></a>
-+ <a href="https://medium.com/@searge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@searge" height="30" width="40" /></a>
-+ <a href="https://www.leetcode.com/searge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="searge" height="30" width="40" /></a>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank">
