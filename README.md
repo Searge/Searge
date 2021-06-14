@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Searge
 
-## An artist passionate with code from Ukraine
+### An artist passionate with code from Ukraine
 
 <img src="https://komarev.com/ghpvc/?username=searge&label=Profile%20views&color=0e75b6&style=flat" alt="searge" />
 
