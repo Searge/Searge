@@ -38,6 +38,7 @@ if __name__ == '__main__':
 # %%
 
 ```
+<sub>Thanks @rednafi for idea of script :wink:</sub>
 
 ### My Stats
 
