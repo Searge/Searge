@@ -42,7 +42,7 @@ if __name__ == '__main__':
 
 ### My Stats
 
-[![Searge`s github stats](https://github-readme-stats.vercel.app/api?username=searge&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
+[![Searge`s github stats](https://github-readme-stats.vercel.app/api?username=searge&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats&flag-india)
 
 [![Searge's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Searge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
