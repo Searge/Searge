@@ -44,6 +44,6 @@ if __name__ == '__main__':
 
 [![Searge's github stats](https://github-readme-stats.vercel.app/api?username=searge&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Searge's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Searge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Searge's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Searge&layout=compact)](https://wakatime.com/@Searge)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=searge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
