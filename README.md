@@ -9,7 +9,7 @@
 ```python
 """Creating a class for keeping track of knowledge."""
 import json
-from pprint import pprint
+from rich import print
 from dataclasses import asdict, make_dataclass
 
 person = make_dataclass('Person',
@@ -26,14 +26,14 @@ person = make_dataclass('Person',
 
 if __name__ == '__main__':
     languages = ['Python', 'JS', 'HTML', 'CSS', 'XPath', 'Lisp']
-    databases = ['SQLite', 'PostgreSQL', 'DynamoDB', 'Redis']
-    misc = ['Linux', 'Shell', 'Docker', 'AWS']
-    ongoing = ['Full Stack Web', 'Laravel', 'AWS']
+    databases = ['SQLite', 'PostgreSQL', 'Percona', 'DynamoDB', 'Redis']
+    misc = ['Linux', 'Shell', 'LXC', 'Docker', 'AWS']
+    ongoing = ['Full Stack Web', 'Magento 2 Cloud', 'AWS']
 
     me = person('@Searge', 'Sergij Boremchuk',
                 languages, databases, misc, ongoing)
 
-    pprint(me.to_json())
+    print(me.to_json())
 
 # %%
 
