@@ -2,7 +2,7 @@
 
 ### An artist passionate with code from Ukraine 🇺🇦
 
-<a href="https://stackoverflow.com/story/searge"><img src="https://img.shields.io/badge/stackoverflow-story-yellow?logo=stackoverflow" alt="StackOverflow Story" /></a> <img src="https://komarev.com/ghpvc/?username=searge&label=Profile%20views&color=0e75b6&style=flat" alt="searge" />
+<a href="https://wakatime.com/@cdc825db-43f4-47e4-8c55-60641b31e257"><img src="https://wakatime.com/badge/user/cdc825db-43f4-47e4-8c55-60641b31e257.svg" alt="Total time coded since May 17 2018" /></a> <img src="https://komarev.com/ghpvc/?username=searge&label=Profile%20views&color=0e75b6&style=flat" alt="searge" />
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
