@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Searge
 
-### An artist passionate with code from Ukraine 🇺🇦
+### An DevOps Engineer from Ukraine 🇺🇦
 
-<a href="https://wakatime.com/@cdc825db-43f4-47e4-8c55-60641b31e257"><img src="https://wakatime.com/badge/user/cdc825db-43f4-47e4-8c55-60641b31e257.svg" alt="Total time coded since May 17 2018" /></a> <img src="https://komarev.com/ghpvc/?username=searge&label=Profile%20views&color=0e75b6&style=flat" alt="searge" />
+<a href="https://wakatime.com/@cdc825db-43f4-47e4-8c55-60641b31e257"><img src="https://wakatime.com/badge/user/cdc825db-43f4-47e4-8c55-60641b31e257.svg" alt="Total time coded since May 17 2018" /></a> <img src="https://komarev.com/ghpvc/?username=searge&label=Profile%20views&color=0e75b6&style=flat" alt="searge" /> [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
