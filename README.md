@@ -5,26 +5,31 @@
 ![Visitors](https://komarev.com/ghpvc/?username=searge&label=Profile%20views&color=0e75b6&style=flat) [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
 ```python
+# %%
 """Creating a class for keeping track of knowledge."""
 import json
-from rich import print
 from dataclasses import asdict, make_dataclass
 
-person = make_dataclass('Person',
-                        [('nick', str),
-                         ('name', str),
-                            ('pipelines', list[str]),
-                            ('web_services', list[str]),
-                            ('languages', list[str]),
-                            ('databases', list[str]),
-                            ('misc', list[str]),
-                            ('ongoing', list[str])],
-                        namespace={
-                            'to_json': lambda self: json.dumps(
-                                asdict(self), indent=4)})
-# %%
+from rich import print
 
-if __name__ == '__main__':
+person = make_dataclass(
+    "Person",
+    [
+        ("nick", str),
+        ("name", str),
+        ("pipelines", list[str]),
+        ("web_services", list[str]),
+        ("languages", list[str]),
+        ("databases", list[str]),
+        ("misc", list[str]),
+        ("ongoing", list[str]),
+    ],
+    namespace={"to_json": lambda self: json.dumps(asdict(self), indent=4)},
+)
+
+# %%
+# @title Initializing classes and creating lists
+if __name__ == "__main__":
     pipelines    = ['GitLab Ci', 'GitHub Actions', 'AWS CodePipeline', 'Jenkins']
     web_services = ['nginx', 'apache', 'varnish', 'fastly', 'elastic', 'solr']
     languages    = ['YAML', 'Bash', 'Python', 'JS', 'Web']
