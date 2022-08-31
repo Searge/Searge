@@ -47,4 +47,4 @@ if __name__ == '__main__':
 
 <!--END_SECTION:waka-->
 
-![footer](https://capsule-render.vercel.app/api?color=gradient&customColorList=14,21)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&color=gradient&customColorList=14,21&height=82&section=footer)
