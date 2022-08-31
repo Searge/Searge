@@ -1,8 +1,6 @@
-# Hi <img src="img/vulcan.webp" style="display: inline-block; margin: 0; height: 2rem" alt="Vulcan salute" />, I'm Searge
+# <img src="img/vulcan.webp" style="display: inline-block; margin: 0; height: 2rem" alt="Vulcan salute" />, I'm Searge
 
-## An DevOps Engineer from Ukraine 🇺🇦
-
-![Lutsk](img/flag_of_luts_k_by_ashikcygan_d62gwi3.png) ![Volyn](img/volyn_by_ashikcygan_d61v3xl.png) ![Ukraine](img/ukraine_by_stamps_of_flags_dbe6fld.png)
+## An DevOps Engineer at [Smile Ukraine](https://smile-ukraine.com/en)
 
 ![Visitors](https://komarev.com/ghpvc/?username=searge&label=Profile%20views&color=0e75b6&style=flat) [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
@@ -15,6 +13,8 @@ from dataclasses import asdict, make_dataclass
 person = make_dataclass('Person',
                         [('nick', str),
                          ('name', str),
+                            ('pipelines', list[str]),
+                            ('web_services', list[str]),
                             ('languages', list[str]),
                             ('databases', list[str]),
                             ('misc', list[str]),
@@ -25,13 +25,15 @@ person = make_dataclass('Person',
 # %%
 
 if __name__ == '__main__':
-    languages = ['YAML', 'Bash', 'Python', 'JS']
-    databases = ['SQLite', 'PostgreSQL', 'Percona', 'DynamoDB', 'Redis']
-    misc = ['Ci/Cd', 'Linux', 'Shell', 'LXC', 'Docker', 'Terraform', 'AWS']
-    ongoing = ['Full Stack Web', 'Magento 2 Cloud', 'AWS']
+    pipelines    = ['GitLab Ci', 'GitHub Actions', 'AWS CodePipeline', 'Jenkins']
+    web_services = ['nginx', 'apache', 'varnish', 'fastly', 'elastic', 'solr']
+    languages    = ['YAML', 'Bash', 'Python', 'JS', 'Web']
+    databases    = ['SQLite', 'PostgreSQL', 'Percona', 'DynamoDB', 'Redis']
+    misc         = ['Ansible', 'Linux', 'LXC', 'Docker', 'Terraform', 'AWS']
+    ongoing      = ['LPIC', 'Full Stack Web', 'AWS']
 
     me = person('@Searge', 'Sergij Boremchuk',
-                languages, databases, misc, ongoing)
+                pipelines, web_services, languages, databases, misc, ongoing)
 
     print(me.to_json())
 
