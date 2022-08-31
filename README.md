@@ -38,12 +38,13 @@ if __name__ == '__main__':
 # %%
 
 ```
+
 <sub>Thanks @rednafi for idea of script :wink:</sub>
 
 ### My Stats
 
-[![Searge's github stats](https://github-readme-stats.vercel.app/api?username=searge&show_icons=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
 
-[![Searge's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Searge&layout=compact)](https://wakatime.com/@Searge)
+<!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=searge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![footer](https://capsule-render.vercel.app/api?color=gradient&customColorList=14,21)
