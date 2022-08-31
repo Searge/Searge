@@ -1,10 +1,10 @@
-## Hi 👋, I'm Searge
+# Hi <img src="img/vulcan.webp" style="width: 2em; height:1rem" alt="Vulcan salute" />, I'm Searge
 
-### An DevOps Engineer from Ukraine 🇺🇦
+## An DevOps Engineer from Ukraine 🇺🇦
 
-<a href="https://wakatime.com/@cdc825db-43f4-47e4-8c55-60641b31e257"><img src="https://wakatime.com/badge/user/cdc825db-43f4-47e4-8c55-60641b31e257.svg" alt="Total time coded since May 17 2018" /></a> <img src="https://komarev.com/ghpvc/?username=searge&label=Profile%20views&color=0e75b6&style=flat" alt="searge" /> [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+![Lutsk](img/flag_of_luts_k_by_ashikcygan_d62gwi3.png) ![Volyn](img/volyn_by_ashikcygan_d61v3xl.png) ![Ukraine](img/ukraine_by_stamps_of_flags_dbe6fld.png)
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+![Visitors](https://komarev.com/ghpvc/?username=searge&label=Profile%20views&color=0e75b6&style=flat) [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
 ```python
 """Creating a class for keeping track of knowledge."""
@@ -25,9 +25,9 @@ person = make_dataclass('Person',
 # %%
 
 if __name__ == '__main__':
-    languages = ['Python', 'JS', 'HTML', 'CSS', 'XPath', 'Lisp']
+    languages = ['YAML', 'Bash', 'Python', 'JS']
     databases = ['SQLite', 'PostgreSQL', 'Percona', 'DynamoDB', 'Redis']
-    misc = ['Linux', 'Shell', 'LXC', 'Docker', 'AWS']
+    misc = ['Ci/Cd', 'Linux', 'Shell', 'LXC', 'Docker', 'Terraform', 'AWS']
     ongoing = ['Full Stack Web', 'Magento 2 Cloud', 'AWS']
 
     me = person('@Searge', 'Sergij Boremchuk',
@@ -41,10 +41,7 @@ if __name__ == '__main__':
 
 <sub>Thanks @rednafi for idea of script :wink:</sub>
 
-### My Stats
-
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21&height=82&section=footer)
