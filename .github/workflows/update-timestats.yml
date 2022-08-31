@@ -18,10 +18,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # USERNAME: Searge # optional, it will automatically use the username of the owner of the repository who's executing the workflow.
           SHOW_OS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LINES_OF_CODE: "True"
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
-          SHOW_EDITORS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
-          SHOW_LINES_OF_CODE: "True"
           SHOW_SHORT_INFO: "False"
