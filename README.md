@@ -1,4 +1,4 @@
-# <img src="img/vulcan.webp" style="display: inline-block; margin: 0; height: 2rem" alt="Vulcan salute" />, I'm Searge
+# Hi, I'm Searge <img src="img/vulcan.webp" style="display: inline-block; margin: 0; height: 2rem" alt="Vulcan salute" />
 
 ## An DevOps Engineer at [Smile Ukraine](https://smile-ukraine.com/en)
 
