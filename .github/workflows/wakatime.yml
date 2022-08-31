@@ -4,7 +4,8 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: '30 16 * * *'
+    # Runs at 00:00AM UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -21,3 +22,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False"
+          LOCALE: "en"
