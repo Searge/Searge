@@ -49,6 +49,10 @@ if __name__ == "__main__":
 <sub>Thanks @rednafi for idea of script :wink:</sub>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+
+ Last Updated on 05/09/2022 01:53:49 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21&height=82&section=footer)
