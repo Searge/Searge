@@ -49,10 +49,24 @@ if __name__ == "__main__":
 <sub>Thanks @rednafi for idea of script :wink:</sub>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+**I Mostly Code in HTML** 
+
+```text
+HTML                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+SCSS                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+```
 
 
- Last Updated on 05/09/2022 01:53:49 UTC
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Searge/Searge/main/charts/bar_graph.png) 
+
+
+ Last Updated on 24/09/2022 00:24:06 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21&height=82&section=footer)
