@@ -3,6 +3,7 @@
 ## An DevOps Engineer at [Smile Ukraine](https://smile-ukraine.com/en)
 
 ![Visitors](https://komarev.com/ghpvc/?username=searge&label=Profile%20views&color=0e75b6&style=flat) [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+<a rel="me" href="https://hachyderm.io/@Searge">![@Searge@hachyderm.io](https://img.shields.io/badge/-@Searge-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)</a>
 
 ```python
 # %%
