@@ -54,7 +54,7 @@ if __name__ == "__main__":
 <!--START_SECTION:waka-->
 <img
   src="https://github.com/Searge/Searge/blob/main/images/stat.svg"
-  alt="Alternative Text"
+  alt="Wakatime Stats"
 />
 <!--END_SECTION:waka-->
 
