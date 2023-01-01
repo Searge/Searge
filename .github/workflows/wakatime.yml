@@ -1,8 +1,6 @@
 ﻿name: wakatime-stats
 
 on:
-  push:
-    branches: [main]
   schedule:
     - cron: "0 0 * * *"
 
