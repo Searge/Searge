@@ -11,10 +11,12 @@ jobs:
     name: Update Wakatime Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: avinal/Profile-Readme-WakaTime@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN:     ${{ secrets.GH_TOKEN }}
           BRANCH:           "main"
-          COMMIT_MSG:       "Update Wakatime Metrics"
-          STATS_RANGE:      "last_7_days"
+          SHOW_COMMIT:       "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE:     "True"
+          SHOW_OS:           "True"
