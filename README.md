@@ -52,10 +52,6 @@ if __name__ == "__main__":
 [Skyline for 2021](https://skyline.github.com/Searge/2021)
 
 <!--START_SECTION:waka-->
-<img
-  src="https://github.com/Searge/Searge/blob/main/images/stat.svg"
-  alt="Wakatime Stats"
-/>
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21&height=82&section=footer)
