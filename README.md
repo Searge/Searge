@@ -100,12 +100,8 @@ Linux                    11 hrs 21 mins      ███████████�
 Mac                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Searge/Searge/main/assets/bar_graph.png)
-
-
- Last Updated on 25/06/2023 13:02:50 UTC
+ Last Updated on 25/06/2023 13:05:32 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21&height=82&section=footer)
