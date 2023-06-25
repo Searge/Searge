@@ -52,7 +52,7 @@ if __name__ == "__main__":
 [Skyline for 2021](https://skyline.github.com/Searge/2021)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C093%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C093%20hrs%2034%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -102,7 +102,7 @@ Mac                      18 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Searge/Searge/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2023 00:13:26 UTC
+ Last Updated on 25/06/2023 00:16:06 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21&height=82&section=footer)
