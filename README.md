@@ -1,6 +1,6 @@
 # Hi, I'm Searge <img src="images/vulcan.webp" style="display: inline-block; margin: 0; height: 2rem" alt="Vulcan salute" />
 
-## An DevOps Engineer at [Smile Ukraine](https://smile-ukraine.com/en)
+## DevOps Engineer at [Smile Ukraine](https://smile-ukraine.com/en)
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 <a rel="me" href="https://hachyderm.io/@Searge">![@Searge@hachyderm.io](https://img.shields.io/badge/-@Searge-%232B90D9?logo=mastodon&logoColor=white)</a>
